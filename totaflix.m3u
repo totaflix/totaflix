@@ -155,3 +155,6 @@ http://gcp-dash.ngslbs.com/TVD044/index.mpd
 
 #EXTINF:-1 tvg-name=""
 http://gcp-dash.ngslbs.com/TVD041/index.mpd
+
+#EXTINF:-1 tvg-name="CN" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="",
+http://gcp-dash.ngslbs.com/TVD035/index.mpd
