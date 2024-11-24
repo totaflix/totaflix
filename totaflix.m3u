@@ -150,11 +150,14 @@ http://172.32.1.88:1935/tvprogram/DW-HD/playlist.m3u8
 #EXTINF:-1 tvg-name="NATGEO WILD HD" tvg-logo""
 http://gcp-dash.ngslbs.com/TVD045/index.mpd
 
-#EXTINF:-1 tvg-name="UTSAB PLUS HD"
+#EXTINF:-1 tvg-name="UTSAB PLUS HD"t tvg-logo "" UTSAB PLUS HD
 http://gcp-dash.ngslbs.com/TVD044/index.mpd
 
 #EXTINF:-1 tvg-name=""
 http://gcp-dash.ngslbs.com/TVD041/index.mpd
 
-#EXTINF:-1 tvg-name="CN" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="",
+#EXTINF:-1 tvg-name="CN" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="",CN
 http://gcp-dash.ngslbs.com/TVD035/index.mpd
+
+#EXTINF:-1 tvg-name="Hungama" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="",Hungama
+https://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
