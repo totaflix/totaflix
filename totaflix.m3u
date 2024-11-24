@@ -91,7 +91,7 @@ http://172.32.1.88:1935/tvprogram/SONY-HD/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
 
 #EXTINF:-1 tvg-name="SONY PIX HD" tvg-logo="https://sunplex.net/iptv/logo/sony-pix-hd.jpg" group-title="",SONY PIX HD
-http://172.32.1.88:1935/tvprogram/SONY-PIXHD/playlist.m3u8
+http://212.102.34.8:9080/SonyPixHD/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-name="SONY SIX" tvg-logo="https://sunplex.net/iptv/logo/sony-six-hd.jpg" group-title="",SONY SIX
 http://172.32.1.88:1935/tvprogram/SONY-SIXHD/playlist.m3u8
