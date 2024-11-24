@@ -146,3 +146,6 @@ http://172.32.1.88:1935/tvprogram/Gaan-Bangla/playlist.m3u8
 
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="",DW
 http://172.32.1.88:1935/tvprogram/DW-HD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NATGEO WILD HD" tvg-logo""
+http://gcp-dash.ngslbs.com/TVD045/index.mpd
