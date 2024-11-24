@@ -91,10 +91,10 @@ http://gcp-dash.ngslbs.com/TVD048/index.mpd
 http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
 
 #EXTINF:-1 tvg-name="SONY PIX HD" tvg-logo="https://sunplex.net/iptv/logo/sony-pix-hd.jpg" group-title="",SONY PIX HD
-http://212.102.34.8:9080/SonyPixHD/tracks-v1/mono.m3u8
+
 
 #EXTINF:-1 tvg-name="SONY SIX" tvg-logo="https://sunplex.net/iptv/logo/sony-six-hd.jpg" group-title="",SONY SIX
-http://172.32.1.88:1935/tvprogram/SONY-SIXHD/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=105350&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 
 #EXTINF:-1 tvg-name="SONY TEN 1 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-1.jpg" group-title="",SONY TEN 1 HD
 http://tv.cloudcdn.me/live.ts?channelId=291&uid=15585&deviceMac=00:1A:79:D9:7F:BB
