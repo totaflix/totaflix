@@ -19,7 +19,7 @@ https://stream.sunplex.live/GAZI-TV/index.m3u8
 http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
 
 #EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://sunplex.net/iptv/logo/btv.jpg" group-title="",BTV HD
-http://172.32.1.88:1935/tvprogram/BTV/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
 
 #EXTINF:-1 tvg-name="YES TV HD (FIFA-22)" tvg-logo="https://sunplex.net/iptv/logo/yestv-hd-fifa-2022.jpg" group-title="",YES TV HD (FIFA-22)
 https://stream.sunplex.live/YES-TV/index.m3u8
