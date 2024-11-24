@@ -97,10 +97,10 @@ http://212.102.34.8:9080/SonyPixHD/tracks-v1/mono.m3u8
 http://172.32.1.88:1935/tvprogram/SONY-SIXHD/playlist.m3u8
 
 #EXTINF:-1 tvg-name="SONY TEN 1 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-1.jpg" group-title="",SONY TEN 1 HD
-http://172.32.1.88:1935/tvprogram/TEN-1HD/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=291&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 
 #EXTINF:-1 tvg-name="SONY TEN 2 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-2-hd.jpg" group-title="",SONY TEN 2 HD
-http://172.32.1.88:1935/tvprogram/TEN-2/playlist.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=290&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 
 #EXTINF:-1 tvg-name="SONY TEN 3" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-3-hd.jpg" group-title="",SONY TEN 3
 http://172.32.1.88:1935/tvprogram/TEN3HD/playlist.m3u8
