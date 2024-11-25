@@ -84,6 +84,9 @@ https://live.drmlive-02.workers.dev/zee/zee-bangla-hd.m3u8
 #EXTINF:-1 tvg-name="STAR JALSHA HD" tvg-logo="https://sunplex.net/iptv/logo/star-jalsha.jpg" group-title="India Bangla",STAR JALSHA HD
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:29
 
+#EXTINF:-1 tvg-name="Colors Bangla HD" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="India Bangla",Colors Bangla HD
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_HD_voot_MOB
+
 #EXTINF:-1 tvg-name="SONY HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi",SONY HD
 http://gcp-dash.ngslbs.com/TVD048/index.mpd
 
