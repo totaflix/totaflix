@@ -37,7 +37,7 @@ http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/CHANNEL-I/playlist.m3u8
 
 #EXTINF:-1 tvg-name="DEPTO BANGLA HD" tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="BD",DEPTO BANGLA HD
-http://172.32.1.88:1935/tvprogram/DEPTO-BANGLA/playlist.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 tvg-name="CHANNEL 9 HD" tvg-logo="https://sunplex.net/iptv/logo/channel-9.jpg" group-title="BD",CHANNEL 9 HD
 http://172.32.1.88:1935/tvprogram/CHANNEL-9/playlist.m3u8
