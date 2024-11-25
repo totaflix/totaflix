@@ -46,7 +46,7 @@ http://172.32.1.88:1935/tvprogram/CHANNEL-9/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/SATV/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://sunplex.net/iptv/logo/ntv.jpg" group-title="BD",NTV
-http://172.32.1.88:1935/tvprogram/N-TV/playlist.m3u8
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
 #EXTINF:-1 tvg-name="ATN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/atn-bangla.jpg" group-title="BD",ATN BANGLA
 http://172.32.1.88:1935/tvprogram/ATN-BANGLA/playlist.m3u8
