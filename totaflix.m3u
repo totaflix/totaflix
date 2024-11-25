@@ -28,7 +28,7 @@ https://stream.sunplex.live/YES-TV/index.m3u8
 https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
 #EXTINF:-1 tvg-name="EKATTOR TV HD" tvg-logo="https://sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="BD",EKATTOR TV HD
-http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
 #EXTINF:-1 tvg-name="NAGORIK TV" tvg-logo="https://sunplex.net/iptv/logo/nagorik-tv.jpg" group-title="BD",NAGORIK TV
 http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
