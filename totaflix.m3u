@@ -79,7 +79,7 @@ http://172.32.1.88:1935/tvprogram/MTV/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/SONY-AATH/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ZEE BANGLA HD" tvg-logo="https://sunplex.net/iptv/logo/zee-bangla.jpg" group-title="India Bangla",ZEE BANGLA HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/Zeebanglahd.m3u8
+https://live.drmlive-02.workers.dev/zee/zee-bangla-hd.m3u8
 
 #EXTINF:-1 tvg-name="STAR JALSHA HD" tvg-logo="https://sunplex.net/iptv/logo/star-jalsha.jpg" group-title="India Bangla",STAR JALSHA HD
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:29
@@ -162,8 +162,11 @@ http://gcp-dash.ngslbs.com/TVD035/index.mpd
 #EXTINF:-1 tvg-name="Hungama" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="Kids",Hungama
 https://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
 
-#EXTINF:-1 tvg-name="Hungama" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="Music",Mtv Beats HD
+#EXTINF:-1 tvg-name="Mtv Beasts Hd" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="Music",Mtv Beats HD
 http://port.yuvraj49.xyz/jc-mtv-beats-hd/video.m3u8?token=4dv7J9pr60BQ63
 
-#EXTINF:-1 tvg-name="Hungama" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="Kids",Colors HD
+#EXTINF:-1 tvg-name="Colors HD" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="Kids",Colors HD
 http://port.yuvraj49.xyz/jc-colors-hd/video.m3u8?token=4dv7J9pr60BQ63
+
+#EXTINF:-1 tvg-name="Hungama" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="Kids",Colors Cineplex HD
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
