@@ -52,7 +52,7 @@ http://172.32.1.88:1935/tvprogram/N-TV/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/ATN-BANGLA/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTV HD" tvg-logo="https://sunplex.net/iptv/logo/rtv.jpg" group-title="BD",RTV HD
-http://172.32.1.88:1935/tvprogram/RTV-BANGLA/playlist.m3u8
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 
 #EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" group-title="BD",INDEPENDENT TV
 http://172.32.1.88:1935/tvprogram/INDEPENDENT/playlist.m3u8
