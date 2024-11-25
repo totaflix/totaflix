@@ -25,7 +25,7 @@ http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10
 https://stream.sunplex.live/YES-TV/index.m3u8
 
 #EXTINF:-1 tvg-name="SOMOY TV" tvg-logo="https://sunplex.net/iptv/logo/somoy-tv.jpg" group-title="BD",SOMOY TV
-http://172.32.1.88:1935/tvprogram/SOMOY-TV/playlist.m3u8
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
 #EXTINF:-1 tvg-name="EKATTOR TV HD" tvg-logo="https://sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="BD",EKATTOR TV HD
 http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
