@@ -10,7 +10,7 @@ https://iptvcable.netlify.app/Altogether-007/Sports18-1.m3u8
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 
 #EXTINF:-1 tvg-name="T SPORTS HD (Source 2)" tvg-logo="https://sunplex.net/iptv/logo/t-sports-hd-fifa-2022.jpg" group-title="Sports",T SPORTS HD (Source 2)
-http://172.32.1.88:1935/tvprogram/T-SPORTS/playlist.m3u8
+http://starshare.live:8080/live/04494/04494/767.ts
 
 #EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="https://sunplex.net/iptv/logo/gtv-hd-fifa-2022.jpg" group-title="BD",GAZI TV HD
 https://stream.sunplex.live/GAZI-TV/index.m3u8
