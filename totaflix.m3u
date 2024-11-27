@@ -145,7 +145,7 @@ http://172.32.1.88:1935/tvprogram/BBC-WORLD/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/Aljazeera-HD/playlist.m3u8
 
 #EXTINF:-1 tvg-name="BBC EARTH HD" tvg-logo="https://sunplex.net/iptv/logo/bbc-earth.jpg" group-title="Documentory",BBC EARTH HD
-http://172.32.1.88:1935/tvprogram/BBC-EARTH/playlist.m3u8
+http://119.156.26.155:8000/play/a07c/index.m3u8
 
 #EXTINF:-1 tvg-name="DURONTO TV" tvg-logo="https://sunplex.net/iptv/logo/duronto-tv.jpg" group-title="Kids",DURONTO TV
 http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
