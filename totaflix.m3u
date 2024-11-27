@@ -72,8 +72,8 @@ http://172.32.1.88:1935/tvprogram/BANGLA-VISION/playlist.m3u8
 #EXTINF:-1 tvg-name="MY TV HD" tvg-logo="https://sunplex.net/iptv/logo/my-tv.jpg" group-title="BD",MY TV HD
 http://172.32.1.88:1935/tvprogram/MY-TV/playlist.m3u8
 
-#EXTINF:-1 tvg-name="News24 HD" tvg-logo="https://sunplex.net/iptv/logo/news-24.jpg" group-title="BD",News24 HD
-http://172.32.1.88:1935/tvprogram/MTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://sunplex.net/iptv/logo/news-24.jpg" group-title="Movies",Star Gold HD
+https://webott.viatv.com.np/v0t1/StarGoldHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://sunplex.net/iptv/logo/sony-aath.jpg" group-title="India Bangla",SONY AATH
 https://shounwifi.net/3/sony_aath.php
@@ -139,10 +139,10 @@ http://tv.cloudcdn.me/live.ts?channelId=291&uid=15585&deviceMac=00:1A:79:D9:7F:B
 http://gcp-dash.ngslbs.com/TVD041/index.mpd
 
 #EXTINF:-1 tvg-name="Skynet Sports 1" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-1.jpg" group-title="Sports",Skynet Sports 1
-http://172.32.1.88:1935/tvprogram/SKY-NET-1/playlist.m3u8
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4359.ts
 
 #EXTINF:-1 tvg-name="Skynet Sports 2" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-2.jpg" group-title="Sports",Skynet Sports 2
-http://172.32.1.88:1935/tvprogram/SKY-NET-2/playlist.m3u8
+https://cdn-3.nxplay.com.br/SONY_MOVIES/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Skynet Sports 6" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="Sports",Skynet Sports 6
 http://172.32.1.88:1935/tvprogram/SKY-NET-6/playlist.m3u8
@@ -153,7 +153,7 @@ http://172.32.1.88:1935/tvprogram/SONY-MAX2/playlist.m3u8
 #EXTINF:-1 tvg-name="SONY SAB HD" tvg-logo="https://sunplex.net/iptv/logo/sony-sab-hd.jpg" group-title="Hindi",SONY SAB HD
 http://172.32.1.88:1935/tvprogram/SONY-SUBHD/playlist.m3u8
 
-#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://sunplex.net/iptv/logo/bbc-lifestyle.jpg" group-title="Movies",Movies Now
+#EXTINF:-1 tvg-name="Movies Now" tvg-logo="https://sunplex.net/iptv/logo/bbc-lifestyle.jpg" group-title="Movies",Movies Now
 http://103.175.242.10:8080/moviesnow/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="India Bangla",DD BANGLA
