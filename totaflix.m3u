@@ -153,8 +153,8 @@ http://172.32.1.88:1935/tvprogram/SONY-MAX2/playlist.m3u8
 #EXTINF:-1 tvg-name="SONY SAB HD" tvg-logo="https://sunplex.net/iptv/logo/sony-sab-hd.jpg" group-title="Hindi",SONY SAB HD
 http://172.32.1.88:1935/tvprogram/SONY-SUBHD/playlist.m3u8
 
-#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://sunplex.net/iptv/logo/bbc-lifestyle.jpg" group-title="Documentory",BBC Lifestyle
-http://172.32.1.88:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://sunplex.net/iptv/logo/bbc-lifestyle.jpg" group-title="Movies",Movies Now
+http://103.175.242.10:8080/moviesnow/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="India Bangla",DD BANGLA
 http://172.32.1.88:1935/tvprogram/DD-BANGLA/playlist.m3u8
