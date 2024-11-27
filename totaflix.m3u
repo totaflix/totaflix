@@ -66,8 +66,8 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-name="CHANNEL 24" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="BD",CHANNEL 24
 http://172.32.1.88:1935/tvprogram/Channel-24/playlist.m3u8
 
-#EXTINF:-1 tvg-name="BANGLA VISION HD" tvg-logo="https://sunplex.net/iptv/logo/banglavision.jpg" group-title="BD",BANGLA VISION HD
-http://172.32.1.88:1935/tvprogram/BANGLA-VISION/playlist.m3u8
+#EXTINF:-1 tvg-name="BANGLA VISION HD" tvg-logo="https://sunplex.net/iptv/logo/banglavision.jpg" group-title="Hindi",ZEE ZEST HD
+https://la.drmlive.au/tp/zee-348.m3u8
 
 #EXTINF:-1 tvg-name="MY TV HD" tvg-logo="https://sunplex.net/iptv/logo/my-tv.jpg" group-title="BD",MY TV HD
 http://172.32.1.88:1935/tvprogram/MY-TV/playlist.m3u8
