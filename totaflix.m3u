@@ -33,8 +33,8 @@ https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:-1 tvg-name="NAGORIK TV" tvg-logo="https://sunplex.net/iptv/logo/nagorik-tv.jpg" group-title="BD",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-name="CHANNEL I HD" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="BD",CHANNEL I HD
-http://172.32.1.88:1935/tvprogram/CHANNEL-I/playlist.m3u8
+#EXTINF:-1 tvg-name="CHANNEL I HD" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="BD",Boishakhi Tv
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-name="DEPTO BANGLA HD" tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="BD",DEPTO BANGLA HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
@@ -70,7 +70,7 @@ https://freeott.site/discovery/Discovery_Channel.m3u8
 https://la.drmlive.au/tp/zee-348.m3u8
 
 #EXTINF:-1 tvg-name="MY TV HD" tvg-logo="https://sunplex.net/iptv/logo/my-tv.jpg" group-title="BD",MY TV HD
-http://172.32.1.88:1935/tvprogram/MY-TV/playlist.m3u8
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://sunplex.net/iptv/logo/news-24.jpg" group-title="Movies",Star Gold HD
 https://webott.viatv.com.np/v0t1/StarGoldHD.stream/playlist.m3u8
