@@ -63,8 +63,8 @@ https://ythls.armelin.one/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
 #EXTINF:-1 tvg-name="EKUSHEY TV" tvg-logo="https://sunplex.net/iptv/logo/ekushey-tv.jpg" group-title="BD",EKUSHEY TV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-name="CHANNEL 24" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="BD",CHANNEL 24
-http://172.32.1.88:1935/tvprogram/Channel-24/playlist.m3u8
+#EXTINF:-1 tvg-name="Discovery Hindi" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="BD",Discovery Hindi
+https://freeott.site/discovery/Discovery_Channel.m3u8
 
 #EXTINF:-1 tvg-name="BANGLA VISION HD" tvg-logo="https://sunplex.net/iptv/logo/banglavision.jpg" group-title="Hindi",ZEE ZEST HD
 https://la.drmlive.au/tp/zee-348.m3u8
