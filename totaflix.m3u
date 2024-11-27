@@ -76,10 +76,10 @@ http://172.32.1.88:1935/tvprogram/MY-TV/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/MTV/playlist.m3u8
 
 #EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://sunplex.net/iptv/logo/sony-aath.jpg" group-title="India Bangla",SONY AATH
-http://172.32.1.88:1935/tvprogram/SONY-AATH/playlist.m3u8
+https://shounwifi.net/3/sony_aath.php
 
 #EXTINF:-1 tvg-name="ZEE BANGLA HD" tvg-logo="https://sunplex.net/iptv/logo/zee-bangla.jpg" group-title="India Bangla",ZEE BANGLA HD
-https://live.drmlive-02.workers.dev/zee/zee-bangla-hd.m3u8
+https://shounwifi.net/api/zee_bangla.php
 
 #EXTINF:-1 tvg-name="STAR JALSHA HD" tvg-logo="https://sunplex.net/iptv/logo/star-jalsha.jpg" group-title="India Bangla",STAR JALSHA HD
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:29
