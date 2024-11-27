@@ -1,4 +1,4 @@
-
+ 
 #EXTM3U
 #EXTINF:-1 tvg-name="MAASRANGA TV HD" tvg-logo="https://sunplex.net/iptv/logo/maasranga-tv.jpg" group-title="BD",MAASRANGA TV HD
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
@@ -156,7 +156,7 @@ http://172.32.1.88:1935/tvprogram/Gaan-Bangla/playlist.m3u8
 #EXTINF:-1 tvg-name="DW" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="News",DW
 http://172.32.1.88:1935/tvprogram/DW-HD/playlist.m3u8
 
-#EXTINF:-1 tvg-name="NATGEO WILD HD" tvg-logo"" NATGEO WILD HD
+#EXTINF:-1 tvg-name="NATGEO WILD HD" tvg-logo"" group-title="UK" WILD HD
 http://gcp-dash.ngslbs.com/TVD045/index.mpd
 
 #EXTINF:-1 tvg-name="UTSAB PLUS HD"t tvg-logo "" group-title="UK" UTSAB PLUS HD
