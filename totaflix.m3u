@@ -84,6 +84,9 @@ https://shounwifi.net/api/zee_bangla.php
 #EXTINF:-1 tvg-name="STAR JALSHA HD" tvg-logo="https://sunplex.net/iptv/logo/star-jalsha.jpg" group-title="India Bangla",STAR JALSHA HD
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:29
 
+#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="India Bangla",Star Jalsha HD
+http://stream247.live:8080/starjalsha/index.m3u8
+
 #EXTINF:-1 tvg-name="Colors Bangla HD" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="India Bangla",Colors Bangla HD
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_HD_voot_MOB
 
