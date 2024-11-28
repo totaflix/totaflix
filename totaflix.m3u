@@ -111,13 +111,13 @@ http://stvlive.net:8080/colorshd/index.m3u8
 #EXTINF:-1 tvg-name="SONY HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi",SONY HD
 http://gcp-dash.ngslbs.com/TVD048/index.mpd
 
-#EXTINF:-1 tvg-name="SONY HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi",SONY SAB HD
+#EXTINF:-1 tvg-name="SONY SAB HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi",SONY SAB HD
 http://119.156.26.155:8000/play/a075/index.m3u8
 
-#EXTINF:-1 tvg-name="SETMAX2 HD" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg" group-title="Movies",SETMAX2 HD
-http://109.61.81.42:43756/4862/video.m3u8?token=4444
+#EXTINF:-1 tvg-name="And Picture HD" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg" group-title="Movies",And Picture HD
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 
-#EXTINF:-1 tvg-name="SETMAX2 HD" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg" group-title="Movies",SETMAX2 HD
+#EXTINF:-1 tvg-name="SETMAX HD" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg" group-title="Movies",SETMAX2 HD
 http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
 
 #EXTINF:-1 tvg-name="SONY PIX HD" tvg-logo="https://sunplex.net/iptv/logo/sony-pix-hd.jpg" group-title="Movies",SONY PIX HD
