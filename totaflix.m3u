@@ -144,8 +144,8 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/4359.t
 #EXTINF:-1 tvg-name="Skynet Sports 2" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-2.jpg" group-title="Sports",Skynet Sports 2
 https://cdn-3.nxplay.com.br/SONY_MOVIES/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="Skynet Sports 6" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="Sports",Skynet Sports 6
-http://172.32.1.88:1935/tvprogram/SKY-NET-6/playlist.m3u8
+#EXTINF:-1 tvg-name="Epic" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-6.jpg" group-title="Himdi",Epic
+http://epiconvh.s.llnwi.net/epic/master_480.m3u8
 
 #EXTINF:-1 tvg-name="SONY MAX 2" tvg-logo="https://sunplex.net/iptv/logo/sony-max-2.jpg" group-title="Movies",SONY MAX 2
 http://172.32.1.88:1935/tvprogram/SONY-MAX2/playlist.m3u8
