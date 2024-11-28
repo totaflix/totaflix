@@ -21,7 +21,7 @@ http://starshare.live:8080/live/04494/04494/767.ts
 #EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://sunplex.net/iptv/logo/btv.jpg" group-title="",BTV HD
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
 
-#EXTINF:-1 tvg-name="YES TV HD (FIFA-22)" tvg-logo="https://sunplex.net/iptv/logo/yestv-hd-fifa-2022.jpg" group-title="Music",Gaan Bangla
+#EXTINF:-1 tvg-name="Gaan Bangla (FIFA-22)" tvg-logo="https://sunplex.net/iptv/logo/yestv-hd-fifa-2022.jpg" group-title="Music",Gaan Bangla
 http://tv.cloudcdn.me/live.ts?channelId=97&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 #EXTINF:-1 tvg-name="SOMOY TV" tvg-logo="https://sunplex.net/iptv/logo/somoy-tv.jpg" group-title="BD",SOMOY TV
@@ -39,8 +39,8 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-name="DEPTO BANGLA HD" tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="BD",DEPTO BANGLA HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
-#EXTINF:-1 tvg-name="CHANNEL 9 HD" tvg-logo="https://sunplex.net/iptv/logo/channel-9.jpg" group-title="BD",CHANNEL 9 HD
-http://172.32.1.88:1935/tvprogram/CHANNEL-9/playlist.m3u8
+#EXTINF:-1 tvg-name="RogeenGeentv" tvg-logo="https://sunplex.net/iptv/logo/channel-9.jpg" group-title="BD",RogeenTV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="SATV" tvg-logo="https://sunplex.net/iptv/logo/satv.jpg" group-title="BD",SATV
 http://172.32.1.88:1935/tvprogram/SATV/playlist.m3u8
