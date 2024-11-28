@@ -174,8 +174,8 @@ http://172.32.1.88:1935/tvprogram/Duronto-TV/playlist.m3u8
 #EXTINF:-1 tvg-name="GAAN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/gaan-bangla.jpg" group-title="PK",GEO KAHANI
 http://125.209.88.166:45793/BRN/GeoKahani.stream/chunklist_w484598437.m3u8
 
-#EXTINF:-1 tvg-name="DW" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="News",DW
-http://172.32.1.88:1935/tvprogram/DW-HD/playlist.m3u8
+#EXTINF:-1 tvg-name="HUM TV" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="News",HUM TV World
+http://208.86.19.13:81/508.stream/index.m3u8
 
 #EXTINF:-1 tvg-name="NATGEO WILD HD" tvg-logo"" group-title="UK" WILD HD
 http://gcp-dash.ngslbs.com/TVD045/index.mpd
