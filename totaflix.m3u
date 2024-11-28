@@ -87,6 +87,9 @@ http://tv.cloudcdn.me/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:2
 #EXTINF:-1 tvg-name="Colors Bangla HD" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="India Bangla",Colors Bangla HD
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_HD_voot_MOB
 
+#EXTINF:-1 tvg-name="Jalsha Movies SD" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="India Bangla",Jalsha Movies SF
+http://103.175.242.10:8080/jalshamovies/index.m3u8
+
 #EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="India Bangla",Zee Bangla Cinema (airte)
 http://103.175.242.10:8080/zeebangla/index.m3u8
 
