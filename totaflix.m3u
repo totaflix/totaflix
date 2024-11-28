@@ -33,7 +33,7 @@ http://tv.cloudcdn.me/live.ts?channelId=95&uid=13433&deviceMac=00:1A:79:00:97:A1
 #EXTINF:-1 tvg-name="NAGORIK TV" tvg-logo="https://sunplex.net/iptv/logo/nagorik-tv.jpg" group-title="BD",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 tvg-name="CHANNEL I HD" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="BD",Boishakhi Tv
+#EXTINF:-1 tvg-name="Boishakhi" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="BD",Boishakhi Tv
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-name="DEPTO BANGLA HD" tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="BD",DEPTO BANGLA HD
@@ -42,14 +42,14 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-name="RogeenGeentv" tvg-logo="https://sunplex.net/iptv/logo/channel-9.jpg" group-title="BD",RogeenTV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="SATV" tvg-logo="https://sunplex.net/iptv/logo/satv.jpg" group-title="BD",SATV
-http://172.32.1.88:1935/tvprogram/SATV/playlist.m3u8
+#EXTINF:-1 tvg-name="9XM" tvg-logo="https://sunplex.net/iptv/logo/satv.jpg" group-title="Music",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/9f1a3d57-4134-4f4c-95ea-2cb142ac63f8/0.m3u8
 
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://sunplex.net/iptv/logo/ntv.jpg" group-title="BD",NTV
 https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
 
-#EXTINF:-1 tvg-name="ATN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/atn-bangla.jpg" group-title="BD",ATN BANGLA
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-name="Bablle Balle" tvg-logo="https://sunplex.net/iptv/logo/atn-bangla.jpg" group-title="Music",Balle Balle HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/af274c57-7ef6-4505-aac4-d59366b94817/0.m3u8
 
 #EXTINF:-1 tvg-name="RTV HD" tvg-logo="https://sunplex.net/iptv/logo/rtv.jpg" group-title="BD",RTV HD
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
@@ -66,7 +66,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-name="Discovery Hindi" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="BD",Discovery Hindi
 https://freeott.site/discovery/Discovery_Channel.m3u8
 
-#EXTINF:-1 tvg-name="BANGLA VISION HD" tvg-logo="https://sunplex.net/iptv/logo/banglavision.jpg" group-title="Hindi",ZEE ZEST HD
+#EXTINF:-1 tvg-name="ZEE ZEST HD" tvg-logo="https://sunplex.net/iptv/logo/banglavision.jpg" group-title="Hindi",ZEE ZEST HD
 https://la.drmlive.au/tp/zee-348.m3u8
 
 #EXTINF:-1 tvg-name="MY TV HD" tvg-logo="https://sunplex.net/iptv/logo/my-tv.jpg" group-title="BD",MY TV HD
