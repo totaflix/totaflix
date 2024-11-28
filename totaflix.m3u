@@ -162,7 +162,7 @@ https://dplus.gammacdn.workers.dev/videos/113.m3u8
 http://epiconvh.s.llnwi.net/epic/master_480.m3u8
 
 #EXTINF:-1 tvg-name="SONY MAX 2" tvg-logo="https://sunplex.net/iptv/logo/sony-max-2.jpg" group-title="Movies",SONY MAX 2
-http://172.32.1.88:1935/tvprogram/SONY-MAX2/playlist.m3u8
+http://stream247.live:8080/sonymax2/index.m3u8
 
 #EXTINF:-1 tvg-name="SONY SAB HD" tvg-logo="https://sunplex.net/iptv/logo/sony-sab-hd.jpg" group-title="Hindi",SONY SAB HD
 http://172.32.1.88:1935/tvprogram/SONY-SUBHD/playlist.m3u8
