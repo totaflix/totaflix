@@ -254,6 +254,9 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2773.t
 #EXTINF:-1 tvg-name="Hungama" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="Kids",Colors Cineplex HD
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_voot_MOB
 
+#EXTINF:-1 tvg-name="Disney Chhanel HD" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="India Bangla",Disney Chahnle HD
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2776.ts
+
 #EXTINF:-1 tvg-name="zing" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="Music",Zing
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2973.ts
 
