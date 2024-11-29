@@ -123,14 +123,20 @@ https://webott.viatv.com.np/v0t1/StarPlusHD.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Bharat HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi",STAR BHARAT HD
 https://webott.viatv.com.np/v0t1/StarBharatHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee TV
+#EXTINF:-1 tvg-name="Zee TV SD" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee TV SD
+https://la.drmlive.au/tp/zee-zeetv.m3u8
+
+#EXTINF:-1 tvg-name="Zee TV HD" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee TV HD
 https://la.drmlive.au/tp/zee-zeetvhd.m3u8
 
-#EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee Cinema HD
+#EXTINF:-1 tvg-name="Zee Cinema SF" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee Cinem SD
+https://la.drmlive.au/tp/zee-zeecinema.m3u8
+
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee Cinema HD
 https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee Bangla HD
-https://la.drmlive.au/tp/zee-zeebanglahd.m3u8
+https://la.drmlive.au/tp/zee-zeebangla.m3u8
 
 #EXTINF:-1 tvg-name="Zee Anmol Cinema" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee Anmol Cinema
 https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
@@ -138,11 +144,16 @@ https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
 #EXTINF:-1 tvg-name="Zee Anmol" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee Anmol
 https://la.drmlive.au/tp/zee-zeeanmol.m3u
 
+#EXTINF:-1 tvg-name="Zee Tamil" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee Tamil HD
+https://la.drmlive.au/tp/zee-zeeanmol.m3u8
+
 #EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee bangla Cinema
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 
 #EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee Action
 https://la.drmlive.au/tp/zee-zeeaction.m3u8
+
+
 
 #EXTINF:-1 tvg-name="Zee Cinema SD" tvg-logo="" group-title="Movies", Zee Cinema SD
 http://109.61.81.147:2080/cdn2/522/video.m3u8?token=4444
