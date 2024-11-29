@@ -87,6 +87,8 @@ http://tv.cloudcdn.me/live.ts?channelId=116&uid=16068&deviceMac=00:1A:79:ED:10:2
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="India Bangla",Star Jalsha HD
 http://stream247.live:8080/starjalsha/index.m3u8
 
+#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="India Bangla",Star Jalsha HD
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2907.ts
 #EXTINF:-1 tvg-name="Colors Bangla HD" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="India Bangla",Colors Bangla HD
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_HD_voot_MOB
 
