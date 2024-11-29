@@ -149,7 +149,10 @@ http://103.175.242.10:8080/sonyten1/index.m3u8
 #EXTINF:-1 tvg-name="SONY TEN 2 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-2-hd.jpg" group-title="Sports",SONY TEN 2 HD
 http://103.175.242.10:8080/sonyten2/index.m3u8
 
-#EXTINF:-1 tvg-name="SONY TEN 3" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-3-hd.jpg" group-title="Sports",SONY TEN 3
+#EXTINF:-1 tvg-name="SONY TEN 3 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-3-hd.jpg" group-title="Sports",SONY TEN 3 SD
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2837.ts
+
+#EXTINF:-1 tvg-name="SONY TEN 3 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-3-hd.jpg" group-title="Sports",SONY TEN 3 HD
 http://103.175.242.10:8080/sonyten3/index.m3u8
 
 #EXTINF:-1 tvg-name="Sony ten 4 HD" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-hd.jpg" group-title=",Sports",SONY TEN 4 HD
