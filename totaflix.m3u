@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-name="MAASRANGA TV HD" tvg-logo="https://sunplex.net/iptv/logo/maasranga-tv.jpg" group-title="BD",MAASRANGA TV HD
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
@@ -102,7 +101,6 @@ https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_HD_voot_MOB
 #EXTINF:-1 tvg-name="Colors Bangla SD" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="India Bangla",Colors Bangla SD
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2769.ts
 
-
 #EXTINF:-1 tvg-name="Colors Bangla HD" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="India Bangla",Colors Bangla
 http://stream247.live:8080/colorsbangla/index.m3u8
 
@@ -118,51 +116,41 @@ http://103.175.242.10:8080/zeebangla/index.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="India Bangla",Zee Bangla Cinema (2)
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2908.ts
 
-
 #EXTINF:-1 tvg-name="STAR PLUS HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi",STAR PLUS HD
 https://webott.viatv.com.np/v0t1/StarPlusHD.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Star Bharat HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi",STAR BHARAT HD
 https://webott.viatv.com.np/v0t1/StarBharatHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Zee" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee
+#EXTINF:-1 tvg-name="Zee TV" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee TV
 https://la.drmlive.au/tp/zee-zeetvhd.m3u8
 
 #EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee Cinema HD
 https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
 
-#EXTINF:-1 tvg-name="Zee" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee Bangla HD
+#EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee Bangla HD
 https://la.drmlive.au/tp/zee-zeebanglahd.m3u8
 
-#EXTINF:-1 tvg-name="Zee" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee Anmol Cinema
+#EXTINF:-1 tvg-name="Zee Anmol Cinema" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee Anmol Cinema
 https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
 
 #EXTINF:-1 tvg-name="Zee Anmol" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee Anmol
 https://la.drmlive.au/tp/zee-zeeanmol.m3u
 
-#EXTINF:-1 tvg-name="Zee" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee bangla Cinema
+#EXTINF:-1 tvg-name="Zee Bangla Cinema" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee bangla Cinema
 https://la.drmlive.au/tp/zee-zeebanglacinema.m3u8
 
 #EXTINF:-1 tvg-name="Zee" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Hindi",Zee Action
 https://la.drmlive.au/tp/zee-zeeaction.m3u8
 
-#EXTINF:-1 tvg-name="Zee Cinema SD" tvg-logo="" group-title="Movies",Zee Cinema SD
+#EXTINF:-1 tvg-name="Zee Cinema SD" tvg-logo="" group-title="Movies", Zee Cinema SD
 http://109.61.81.147:2080/cdn2/522/video.m3u8?token=4444
 
-#EXTINF:-1 tvg-name="Andtv HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi",ANDTV HD
+#EXTINF:-1 tvg-name="ANDTV HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi",ANDTV HD
 https://webott.viatv.com.np/v0t1/AndtvHD.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="COLors sd" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi",COLORS SD
+#EXTINF:-1 tvg-name="COLORS SD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi",COLORS SD
 http://stvlive.net:8080/colorshd/index.m3u8
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-name="SONY HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi",SONY HD
 http://gcp-dash.ngslbs.com/TVD048/index.mpd
@@ -205,7 +193,6 @@ http://deencooper.space/CI/x.php?v=starhindi
 
 #EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="BD",Star Sports 2 HD
 http://109.61.81.147:2080/cdn2/512/video.m3u8?token=4444
-
 
 #EXTINF:-1 tvg-name="Ten Sports 1 HD(Eng)" tvg-logo="" group-title="Sports", Ten Sports 1 HD (ENG
 http://109.61.81.147:2080/cdn2/519/video.m3u8?token=4444
@@ -255,13 +242,13 @@ http://125.209.88.166:45793/BRN/GeoKahani.stream/chunklist_w484598437.m3u8
 #EXTINF:-1 tvg-name="HUM TV" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="News",HUM TV World
 http://208.86.19.13:81/508.stream/index.m3u8
 
-#EXTINF:-1 tvg-name="NATGEO WILD HD" tvg-logo"" group-title="UK" WILD HD
+#EXTINF:-1 tvg-name="NATGEO WILD HD" tvg-logo"" group-title="UK",WILD HD
 http://gcp-dash.ngslbs.com/TVD045/index.mpd
 
-#EXTINF:-1 tvg-name="UTSAB PLUS HD"t tvg-logo "" group-title="UK" UTSAB PLUS HD
+#EXTINF:-1 tvg-name="UTSAB PLUS HD"t tvg-logo "" group-title="UK",UTSAB PLUS HD
 http://gcp-dash.ngslbs.com/TVD044/index.mpd
 
-#EXTINF:-1 tvg-name=""
+#EXTINF:-1 tvg-name="Unknown",Unknown
 http://gcp-dash.ngslbs.com/TVD041/index.mpd
 
 #EXTINF:-1 tvg-name="CN" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="Kids",CN
