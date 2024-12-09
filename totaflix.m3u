@@ -7,7 +7,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=2293600-433371119.m3u8
 
 #EXTINF:-1 tvg-name="T SPORTS HD" tvg-logo="https://sunplex.net/iptv/logo/t-sports-hd-fifa-2022.jpg" group-title="Sports",T SPORTS HD
-https://bd.spidy.online/MACX/STREAM4K/play.m3u8?id=1142
+http://46.250.234.136:8080/live/omor20/omor20/4154.ts
 
 #EXTINF:-1 tvg-name="T SPORTS HD (Source 2)" tvg-logo="https://sunplex.net/iptv/logo/t-sports-hd-fifa-2022.jpg" group-title="Sports",T SPORTS HD (Source 2)
 http://103.175.242.10:8080/tsports2/index.m3u8
