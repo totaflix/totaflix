@@ -183,7 +183,7 @@ http://212.102.34.8:9080/SonyPixHD/video.m3u8
 http://103.175.242.10:8080/sonyten5/index.m3u8
 
 #EXTINF:-1 tvg-name="SONY TEN 1 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-1.jpg" group-title="Sports",SONY TEN 1 HD
-http://103.175.242.10:8080/sonyten1/index.m3u8
+http://128.0.104.56/live.ts?channelId=289&uid=15585&deviceMac=00:1A:79:D9:7F:BB
 
 #EXTINF:-1 tvg-name="SONY TEN 2 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-2-hd.jpg" group-title="Sports",SONY TEN 2 HD
 http://103.175.242.10:8080/sonyten2/index.m3u8
