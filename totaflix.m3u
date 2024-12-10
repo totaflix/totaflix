@@ -296,3 +296,51 @@ http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2973.t
 #EXTINF:-1 tvg-name="B4u Music" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="Music",B4u Music
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2762.ts
 
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SETHD1_Landscape_Thumb.jpg" group-title="Sony LIV",SONY HD  
+https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/ 
+
+#EXTINF:-1 tvg-logo="https://www.sonykal.com/sites/g/files/objgke221/files/styles/image_1200x675/public/2023-10/TMKOC-min.png"group-title="Sony LIV", SONY KAL HINDI 
+https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8  
+
+#EXTINF:-1 tvg-id="2" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SABTVHD1_Landscape_Thumb1.jpg" group-title="Sony LIV",SONY SAB HD
+https://keralamaxtv.com/sliv/stream.php?id=1201&e=.m3u8|Referer=https://keralamaxtv.com/ 
+
+#EXTINF:-1 tvg-id="3" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/31aug_sonypal_landscape.jpg" group-title="Sony LIV",SONY PAL
+https://keralamaxtv.com/sliv/stream.php?id=1894&e=.m3u8|Referer=https://keralamaxtv.com/ 
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SONYMax_HD_landscape_thumb.jpg" group-title="Sony LIV",SONY MAX HD
+https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/ 
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SONYMax_SD_landscape_thumb.jpg" group-title="Sony LIV",SONY MAX
+https://keralamaxtv.com/sliv/stream.php?id=96&e=.m3u8|Referer=https://keralamaxtv.com/ 
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5613700600001.jpg" group-title="Sony LIV",SONY WAH
+https://keralamaxtv.com/sliv/stream.php?id=75&e=.m3u8|Referer=https://keralamaxtv.com/ 
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/sonymax2_Landscape_Thumb.jpg" group-title="Sony LIV",SONY MAX 2
+https://keralamaxtv.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://keralamaxtv.com/ 
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5784992380001.jpg" group-title="Sony LIV",SONY AATH
+https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8|Referer=https://keralamaxtv.com/ 
+
+#EXTINF:-1 tvg-id="9" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/sony_yay_livechannel_landsscape.jpg" group-title="Sony LIV",SONY YAY
+https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|Referer=https://keralamaxtv.com/ 
+
+#EXTINF:-1 tvg-id="11" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5813558986001.jpg" group-title="Sony LIV",SONY PIX HD
+https://keralamaxtv.com/sliv/stream.php?id=785&e=.m3u8|Referer=https://keralamaxtv.com/ 
+
+#EXTINF: -1 tvg-id="12" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/5571681160001.jpg" group-title="Sony LIV",SONY BBC EARTH
+https://keralamaxtv.com/sliv/stream.php?id=852&e=.m3u8|Referer=https://keralamaxtv.com/
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN1_Landscape_Thumb.jpg" group-title="Sony LIV",SONY TEN 1
+https://mhdstream.com/sliv/stream.php?id=578079|Referer=https://mhdstream.com/
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN2New_Landscape_Thumb.jpg" group-title="Sony LIV",SONY TEN 2
+https://mhdstream.com/sliv/stream.php?id=12087898|Referer=https://mhdstream.com/
+
+#EXTINF:-1 tvg-id="20" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SonyTEN3HD_Landscape_Thumb_1.jpg" group-title="Sony LIV",SONY TEN 3 HD
+https://mhdstream.com/sliv/stream.php?id=36523652|Referer=https://mhdstream.com/
+
+#EXTINF:-1 tvg-id="22" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/SIXHD_Landscape_Thumb.jpg" group-title="Sony LIV",SONY SIX HD
+https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/
